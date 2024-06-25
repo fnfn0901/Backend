@@ -1,4 +1,4 @@
-# team : 내손을 자바
+# team : 내손을Java
 # project : 니돈내돈
 ![ë_´ì__ì__ì__ë°__page-0001](https://github.com/SMWU-NaesoneulJAVA/frontend/assets/89966409/528d8a84-af15-4ef7-b39d-07b667e455d8)
 
